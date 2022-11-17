@@ -1,0 +1,23 @@
+{
+  "name": "37.1-express-calculator-exerise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephlarrivy/37.1-express-calculator-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephlarrivy/37.1-express-calculator-exercise/issues"
+  },
+  "homepage": "https://github.com/josephlarrivy/37.1-express-calculator-exercise#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
